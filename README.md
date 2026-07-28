@@ -7,3 +7,5 @@ Step 6: run<br/>
 Step 7: <br/>
 <img width="518" height="228" alt="REPL2" src="https://github.com/user-attachments/assets/973bc5bd-1a24-46ac-bec8-4d9ffceb251f" /><br/>
 Step 8: Profit?????
+
+This will probably never be updated bc why would it, feel free to steal/appropriate/tactically acquire/borrow/expand with or without credit. Hope this gets someone's journey off the ground a little smoother!
