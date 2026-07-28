@@ -5,5 +5,5 @@ Step 4: but now what? How do you know what these ugly sequences mean? some are p
 Step 5: load keytest.py wherever in the directory you want it (in the root is easiest to run but you should probably be at least somewhat comfortable navigating the filesystem by this point)<br/>
 Step 6: run<br/>
 Step 7: <br/>
-<img width="517" height="228" alt="REPL1" src="https://github.com/user-attachments/assets/0a3a5f72-452a-4dde-a225-c7d73ed28f20" /><br/>
+<img width="518" height="228" alt="REPL2" src="https://github.com/user-attachments/assets/973bc5bd-1a24-46ac-bec8-4d9ffceb251f" /><br/>
 Step 8: Profit?????
