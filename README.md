@@ -1,9 +1,9 @@
-Step 1: acquire Clockworkpi Picocalc
-Step 2: install a working version of Micropython (best of luck I did such a poor job of organizing my uf2 files even I don't know which one is the good one, also likely depends on your pico module of choice)
-Step 3: learn about receiving and storing keyboard input :o 
-Step 4: but now what? How do you know what these ugly sequences mean? some are pretty straightforward but others are not... am I going to whip out my vt100 terminal sequence pocket conversion chart? Fat fucking chance
-Step 5: load keytest.py wherever in the directory you want it (in the root is easiest to run but you should probably be at least somewhat comfortable navigating the filesystem by this point)
-Step 6: run
-Step 7: 
-<img width="517" height="228" alt="REPL1" src="https://github.com/user-attachments/assets/0a3a5f72-452a-4dde-a225-c7d73ed28f20" />
+Step 1: acquire Clockworkpi Picocalc <br/>
+Step 2: install a working version of Micropython (best of luck I did such a poor job of organizing my uf2 files even I don't know which one is the good one, also likely depends on your pico module of choice)<br/>
+Step 3: learn about receiving and storing keyboard input :o <br/>
+Step 4: but now what? How do you know what these ugly sequences mean? some are pretty straightforward but others are not... am I going to whip out my vt100 terminal sequence pocket conversion chart? Fat fucking chance<br/>
+Step 5: load keytest.py wherever in the directory you want it (in the root is easiest to run but you should probably be at least somewhat comfortable navigating the filesystem by this point)<br/>
+Step 6: run<br/>
+Step 7: <br/>
+<img width="517" height="228" alt="REPL1" src="https://github.com/user-attachments/assets/0a3a5f72-452a-4dde-a225-c7d73ed28f20" /><br/>
 Step 8: Profit?????
